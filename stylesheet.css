@@ -1,5 +1,6 @@
 html {
-    background: rgb(102, 204, 255);
+    background-image: radial-gradient(teal, rgb(102, 204, 255),beige);
+    height: -webkit-fill-available;
   }
   
   * {
